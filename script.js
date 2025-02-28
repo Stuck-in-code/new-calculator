@@ -4,6 +4,8 @@ if (document.readyState == "loading") {
   ready();
 }
 
+//  https://stuck-in-code.github.io/new-calculator/
+
 function ready() {
   // the current time function
   // this is the current time function
